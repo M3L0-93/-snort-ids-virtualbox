@@ -1,10 +1,10 @@
--🛡️ Network Intrusion Detection System (IDS) Lab
+## 🛡️ Network Intrusion Detection System (IDS) Lab
 
-- Overview
+## Overview
 A fully functional IDS lab environment built using VirtualBox virtualization,
 demonstrating real-time detection of network attacks using Snort IDS.
 
-- Architecture
+## Architecture
 | Node | Role | IP Address |
 |------|------|------------|
 | Windows Host | Target machine | 192.168.56.1 |
