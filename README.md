@@ -35,5 +35,5 @@ Snort successfully detected all simulated attack types,
 generating 24 logged alerts across the full test session.
 
 ## Academic Context
-End-of-year project — NETWORK AND TELECOM
+End-of-year project — NETWORK AND TELECOM AT
 JFN-HIGHTECH INSTITUTE OF TECHNOLOGY, Cameroon
